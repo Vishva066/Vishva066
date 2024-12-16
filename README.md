@@ -51,12 +51,12 @@
         </a>
       </td>
             <td align="center">
-        <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
+        <a href="discordapp.com/users/vishva_08" target="_blank">
           <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
         </a>
       </td>
       <td align="center">
-        <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
+        <a href="https://t.me/Vishva_066" target="_blank">
           <img src="https://img.shields.io/badge/Telegram-%231DA1F2?style=for-the-badge&logo=telegram&logoColor=white" alt="Discord">
         </a>
       </td>
