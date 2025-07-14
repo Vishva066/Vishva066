@@ -36,6 +36,20 @@
 	<code><img width="50" src="https://github.com/user-attachments/assets/972354d0-4964-48b6-8608-6ca4a4a7326b" alt="Hardhat" title="Hardhat"/></code>
 </div>
 
+## Certifications
+
+<div align="center">
+  <img src="./assets/cka.png" alt="Certified Kubernetes Administrator Badge" width="80"/>
+  <img src="./assets/hfcp.png" alt="Hyperledger Fabric Certified Practitioner" width="80"/>
+  <img src="./assets/besu.png" alt="Certified Besu Professional Badge" width="80"/>
+  <img src="./assets/exam-dev-besu.png" alt="Certified Besu Professional Exam Developer" width="80"/>
+</div>
+</div>
+
+## Profile
+
+[![View My Resume](https://img.shields.io/badge/View_My_Resume-0077B5?style=for-the-badge&logo=acrobat-reader&logoColor=white)](./assets/Vishva_Resume.pdf)
+
 ## Connect with me 
 
 <table>
