@@ -47,7 +47,7 @@
 
 ## Profile
 
-[![View My Resume](https://img.shields.io/badge/View_My_Resume-0077B5?style=for-the-badge&logo=acrobat-reader&logoColor=white)](./assets/Vishva_Resume.pdf)
+[![View My Resume](https://img.shields.io/badge/View_My_Resume-0077B5?style=for-the-badge&logo=acrobat-reader&logoColor=white)](./assets/Vishva-Resume.pdf)
 
 ## Connect with me 
 
